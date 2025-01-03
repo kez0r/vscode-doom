@@ -1,4 +1,7 @@
-# Instructions
+***I am way too much of an ADHD dotfile enjoyer. I will update this whenever I am not distracted by a new terminal conf file***
+
+
+# Original Instructions
 
 **NOTE:** Please take time to read the short documentation of **"Custom CSS and JS Loader"** for some useful tips for various operating systems to avoid issues regarding the changes not taking effect.
 
